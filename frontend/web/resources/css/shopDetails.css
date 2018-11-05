@@ -1,0 +1,44 @@
+
+/*文本区结束*/
+.d_tit{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.d_tit h3{
+	height:.8rem;
+	width:100%;
+	background: #f6f6f6;
+	text-align: center;
+	line-height: .8rem;
+	font-size:.26rem;
+	color:#575757;
+}
+.d_tit table{
+	width:100%;
+}
+.d_tit tbody{
+	width: 100%;
+}	
+.d_tit tr{
+	width:100%;
+}
+.d_tit img{
+	width:100% !important;
+	float: left;
+	height: auto;
+}
+.d_tit p{
+	font-size: 0.24rem;
+	line-height: 0.36rem;
+	color: #575757;
+	padding: 0 0.14rem;
+}
+.d_tit div{
+	font-size: 12px;
+}
+.d_tit span{
+	font-size: 12px;
+}
+	
+

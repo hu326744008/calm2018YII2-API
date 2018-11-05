@@ -1,0 +1,9 @@
+2017-01-14 15:41:09 [127.0.0.1][-][-][info][info] 快递信息查询;
+    in E:\api\frontend\controllers\SiteController.php:79
+2017-01-14 15:41:09 [127.0.0.1][-][-][info][info] {"errno":2000,"errmsg":"\u83b7\u53d6\u6210\u529f","data":{"result":false,"returnCode":"500","message":"\u67e5\u8be2\u65e0\u7ed3\u679c\uff0c\u8bf7\u9694\u6bb5\u65f6\u95f4\u518d\u67e5"}}
+    in E:\api\frontend\libs\api\MobileApi.php:58
+    in E:\api\frontend\controllers\SiteController.php:110
+2017-01-14 15:41:09 [127.0.0.1][-][-][info][application] $_POST = [
+    'com' => 'zhaijisong'
+    'num' => 'A004156491920'
+]

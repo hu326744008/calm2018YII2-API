@@ -1,0 +1,18 @@
+2017-01-16 14:04:49 [127.0.0.1][-][-][info][info] 快递信息查询;
+    in E:\api\frontend\controllers\SiteController.php:79
+2017-01-16 14:04:51 [127.0.0.1][-][-][info][info] {"errno":2000,"errmsg":"\u83b7\u53d6\u6210\u529f","data":{"message":"ok","nu":"A004156491920","ischeck":"0","condition":"00","com":"zhaijisong","status":"200","state":"0","data":[{"time":"2017-01-16 02:00:12","ftime":"2017-01-16 02:00:12","context":"\u79bb\u5f00 [\u4e0a\u6d77\u57fa\u5730_\u9646\u8fd0\u4e2d\u8f6c\u7ad9] \u53d1\u5f80 [\u5317\u4eac\u57fa\u5730]"},{"time":"2017-01-16 01:59:55","ftime":"2017-01-16 01:59:55","context":"\u5230\u8fbe [\u4e0a\u6d77\u57fa\u5730_\u9646\u8fd0\u4e2d\u8f6c\u7ad9]"},{"time":"2017-01-15 20:51:02","ftime":"2017-01-15 20:51:02","context":"\u5230\u8fbe [\u4e0a\u6d77\u57fa\u5730_\u9646\u8fd0\u4e2d\u8f6c\u7ad9]"},{"time":"2017-01-14 20:49:10","ftime":"2017-01-14 20:49:10","context":"\u5df2\u53d6\u4ef6\uff0c\u79bb\u5f00 [\u4e0a\u6d77_\u4e91\u4ed3\u5206\u90e8_\u534e\u65b0\u4ed3\u914d\u4e2d\u5fc3_\u91d1\u878d\u9879\u76ee\u4e00\u7ec4] \u53d1\u5f80 [\u4e0a\u6d77\u57fa\u5730_\u9646\u8fd0\u4e2d\u8f6c\u7ad9]"}]}}
+    in E:\api\frontend\libs\api\MobileApi.php:58
+    in E:\api\frontend\controllers\SiteController.php:110
+2017-01-16 14:04:49 [127.0.0.1][-][-][info][application] $_POST = [
+    'com' => 'zhaijisong'
+    'num' => 'A004156491920'
+]
+2017-01-16 17:52:37 [127.0.0.1][-][-][info][info] 快递信息查询;
+    in E:\api\frontend\controllers\SiteController.php:79
+2017-01-16 17:52:39 [127.0.0.1][-][-][info][info] {"errno":2000,"errmsg":"\u83b7\u53d6\u6210\u529f","data":{"message":"ok","nu":"A004156491920","ischeck":"0","condition":"00","com":"zhaijisong","status":"200","state":"0","data":[{"time":"2017-01-16 02:00:12","ftime":"2017-01-16 02:00:12","context":"\u79bb\u5f00 [\u4e0a\u6d77\u57fa\u5730_\u9646\u8fd0\u4e2d\u8f6c\u7ad9] \u53d1\u5f80 [\u5317\u4eac\u57fa\u5730]"},{"time":"2017-01-16 01:59:55","ftime":"2017-01-16 01:59:55","context":"\u5230\u8fbe [\u4e0a\u6d77\u57fa\u5730_\u9646\u8fd0\u4e2d\u8f6c\u7ad9]"},{"time":"2017-01-15 20:51:02","ftime":"2017-01-15 20:51:02","context":"\u5230\u8fbe [\u4e0a\u6d77\u57fa\u5730_\u9646\u8fd0\u4e2d\u8f6c\u7ad9]"},{"time":"2017-01-14 20:49:10","ftime":"2017-01-14 20:49:10","context":"\u5df2\u53d6\u4ef6\uff0c\u79bb\u5f00 [\u4e0a\u6d77_\u4e91\u4ed3\u5206\u90e8_\u534e\u65b0\u4ed3\u914d\u4e2d\u5fc3_\u91d1\u878d\u9879\u76ee\u4e00\u7ec4] \u53d1\u5f80 [\u4e0a\u6d77\u57fa\u5730_\u9646\u8fd0\u4e2d\u8f6c\u7ad9]"}]}}
+    in E:\api\frontend\libs\api\MobileApi.php:58
+    in E:\api\frontend\controllers\SiteController.php:110
+2017-01-16 17:52:37 [127.0.0.1][-][-][info][application] $_POST = [
+    'com' => 'zhaijisong'
+    'num' => 'A004156491920'
+]

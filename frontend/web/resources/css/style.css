@@ -1,0 +1,134 @@
+body{
+	background: #ececec;
+}
+.main{
+	/*position:absolute;*/
+	height:100%;
+	background: #ececec;
+	padding:0 .36rem .3rem;
+	height:100%;
+}
+h1{
+	padding-top: .4rem;
+	font-size: .32rem;
+	color: #282828;
+	text-align: center;
+}
+h2{
+	font-size: .28rem;
+	color:#282828;
+	margin:.4rem 0 .3rem 0;
+}
+p{
+	color:#888;
+	font-size: .2rem;
+	line-height: .42rem;
+}
+.p1{
+	margin-top: .4rem;
+}
+span{
+	padding-left:.4rem;
+	display: block;
+	color:#888;
+	font-size: .2rem;
+    line-height: .42rem;
+
+}
+/*.main div p{
+	float:left;
+}*/
+header{
+	height: .74rem;
+	background:#f3001e;
+}
+header h1{
+	text-align: center;
+	line-height: .8rem;
+	font-size:.32rem;
+	color:#fff;
+	width:60%;
+	margin:0 auto;
+}
+.header a{
+	position: absolute;
+    width: .74rem;
+    height:.74rem;
+    -webkit-background-size: 0.24rem;
+	background-size: 0.24rem;
+    font-size: 0.32rem;
+	top:0;
+	left:0.1rem;
+	text-indent: -1111px;
+	background: url(../../business/img/icon_back.png) no-repeat center;
+}
+
+.cont{
+	width:100%;
+	overflow: hidden;
+	position:relative;
+	
+}
+.cont img{
+	width:100%;
+	overflow: hidden;
+}
+.d{
+	font-size: 0;
+	overflow: hidden;
+	position:absolute;
+	left:.4rem;
+	bottom:1.4rem;
+	width:87.5%;
+	margin:0 auto;
+	height:5.4rem;
+	background: rgba(5,5,5,.5);
+	border-radius: 10px;
+	padding-top: .5rem;
+}
+.d p{
+	font-size:.28rem;
+	text-align: center;
+	color:#fff;
+}
+.d .t2{
+	width:4.6rem;
+	margin:0 auto;
+	margin-bottom: .2rem
+}
+.d .t3{
+	width:2.8rem;
+	margin:0 auto;
+	font-size:.32rem;
+	color:#fdf946;
+}
+.pos,.btn{
+	position: relative;
+	width:3.65rem;
+	border-radius: 20px;
+	text-align: center;
+	background: #fff;
+	margin:.3rem auto;
+}
+.pos input,.btn input{
+	width:3.65rem;
+	font-size:.2rem;
+	color:#000;
+    border-radius: 20px;
+    height:.5rem;
+    line-height: .4rem;
+    text-align: center;
+
+}
+.pos p{
+	position: absolute;
+	left: .4rem;
+	font-size:.12rem;
+	color:#ffa;
+	display: none;
+}
+.btn{
+	margin-top: .6rem;
+	background: #fee500;
+	color:#75060a;;
+}
